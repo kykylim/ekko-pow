@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  ![MeowsterQuest Header](ThisMeow.gif)
+  <img src="ThisMeow.gif" alt="MeowsterQuest Header" width="1000" height="250">
 </p>
-
 
 
 
