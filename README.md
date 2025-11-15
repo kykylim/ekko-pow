@@ -2,9 +2,10 @@
   /ᐠ > ˕ <マ MeowsterQuest ₊˚⊹♡
 </h1>
 
-<p align="center">
-  <img src="ThisMeow.gif" alt="Meows/terQuest Heade" width = "1000" height= "250"/>
-</p>
+<div style="text-align:center;">
+  <img src="ThisMeow.gif" alt="MeowsterQuest Header" width="1000" height="250">
+</div>
+
 
 
 # **Description** 📃
@@ -74,16 +75,16 @@
 
 # Meet and Greet (kimmy)
 
-<p align = "center">
 
-| pic                                                              |  Name   |Account|
-|------------------------------------------------------------------|---------|--------|
-| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Maxi    |link    | 
-| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Orange  |link    |
-| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Wankey  |link    |
-| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Roma    |link    |
+  
+| Pic | Name   | Account |
+|-----|--------|---------|
+| <div align="center"><img src="sample.jpg" width="150"></div> | Bernardo, Xiamara    | link    |
+| <div align="center"><img src="sample.jpg" width="150"></div> | Carranceja, Mikyla  | link    |
+| <div align="center"><img src="sample.jpg" width="150"></div> | Gupilan, Shanlee Yvonne | link    |
+| <div align="center"><img src="sample.jpg" width="150"></div> | Mercado, Aaron Daniel   | link    |
 
-</p>
+
 
 
 
