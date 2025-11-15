@@ -7,7 +7,7 @@
 </p>
 
 
-## **Description** 📃
+# **Description** 📃
 ### MeowsterQuest is a turn-based RPG loop of exploration, combat, and rewards to keep gameplay engaging. It solves the problem of repetitive RPGs by combining strategic battles with a clear progression, letting players rescue captured citizens and restore peace to Pawshire.
 
 ### It demonstrates the practical use of Object-oriented Programming (OOP) concepts such [Babaguhin]as encapsulation, inheritance, polymorphism, and abstraction, alongside proper file handling and modular design.
@@ -32,6 +32,58 @@
 - etatatg
 
 ### How to Run the Game
+
+#### open your terminal
+#### *insert pic or ung snippet?hindi pala HAHAHHA*
+
+#### Run the jfkldjf.main to procede to the game
+#### *insert pic*
+
+## **Features**
+1. Add info. Enter the name of your character
+2. Select Character. Can choose the breed and color of the cat by selecting the designated number 
+<p float="left">
+  <img src="sample.jpg" width="200" style="margin-right: 10px;"/>
+  <img src="sample.jpg" width="200" style="margin-right: 10px; "/>
+  <img src="sample.jpg" width="200" style="margin-right: 10px; "/>
+</p>
+3. Upgrade Level. Gain rewards like HP upgrades, weapon/armor upgrades, and restored HP.
+4.
+5.
+6.
+
+# **Object-Oriented Principles**
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollitanim id est laborum.
+
+## Abstraction
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollitanim id est laborum.
+
+## Encapsulation
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollitanim id est laborum.
+
+## Polymorphism
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollitanim id est laborum.
+
+## Inheritance
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollitanim id est laborum.
+
+# Game Play (Example Output)
+### snippet
+### snippet
+### snippet
+
+# Meet and Greet (kimmy)
+
+<p align = "center">
+
+| pic                                                              |  Name   |Account|
+|------------------------------------------------------------------|---------|--------|
+| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Maxi    |link    | 
+| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Orange  |link    |
+| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Wankey  |link    |
+| <img src="sample.jpg" width="200" style="margin-right: 10px;"/>  | Roma    |link    |
+
+</p>
 
 
 
