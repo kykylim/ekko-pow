@@ -2,9 +2,10 @@
   /ᐠ > ˕ <マ MeowsterQuest ₊˚⊹♡
 </h1>
 
-<div style="text-align:center;">
-  <img src="ThisMeow.gif" alt="MeowsterQuest Header" width="1000" height="250">
-</div>
+<p align="center">
+  ![MeowsterQuest Header](ThisMeow.gif)
+</p>
+
 
 
 
