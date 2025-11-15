@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="another.gif" alt="MeowsterQuest Header" width="1000" height="250">
+  <img src="ThisMeow.gif" alt="MeowsterQuest Header" width="1000" height="250">
 </p>
 
 
